@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a personal project<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Redux<br>💬 Ask me about Javascript<br>⚡ Fun fact- I own a lazy brain that gives more straightforward solutions to more complicated problems<br>📚 I love to read books and listen to music<br>✉️ I am just one email away - faiyazrahman03@gmail.com<br>💯 Backend Guy, But also comfortable in Frontend
+🔭 I’m currently working on a personal project<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning Nest.js<br>💬 Ask me about Javascript<br>⚡ Fun fact- I own a lazy brain that gives more straightforward solutions to more complicated problems<br>📚 I love to read books and listen to music<br>✉️ I am just one email away - faiyazrahman03@gmail.com<br>💯 Backend Guy, But also comfortable in Frontend
 
 
 ## 🌐 Socials:
