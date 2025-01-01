@@ -10,9 +10,9 @@
 
 🛠️ With over 2 years of hands-on experience specializing in Node.js development, along with 35+ five-star reviews on [my Fiverr profile](https://www.fiverr.com/stewdesign)!
 
-🔭 I’m currently working on **Airepro Solution PVT LTD**
+🔭 I’m currently working on **Eventizer**
 
-🌱 I’m currently learning **Kubernetes and Jenkins**
+🌱 I’m currently learning **GO**
 
 💬 Ask me about **Backend, Nodejs, Javascript, React... or anything [here](https://github.com/faiyaz032/faiyaz032/issues)**
 
