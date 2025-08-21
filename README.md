@@ -8,9 +8,9 @@
 
 <div align="center">
 
-🛠️ With over 2 years of hands-on experience specializing in Node.js development, along with 35+ five-star reviews on [my Fiverr profile](https://www.fiverr.com/stewdesign)!
+🛠️ With over 3 years of hands-on experience specializing in Node.js development, along with 35+ five-star reviews on [my Fiverr profile](https://www.fiverr.com/stewdesign)!
 
-🔭 I’m currently working on **Eventizer**
+🔭 I’m currently working on **SquareDonations**
 
 🌱 I’m currently learning **GO**
 
