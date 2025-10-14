@@ -1,19 +1,17 @@
 # Faiyaz Rahman
 
-Backend engineer obsessed with database internals and system design.
+Backend engineer. Deep diving into system architecture. Obsessed with understanding how things work at scale.
 
 ## 🎯 Current Work
 
-**SquareDonations** - Scaling backend system and infrastructure for a charitable donations SaaS Application.
+**SquareDonations** - Building scalable backend infrastructure for charitable donations.
 
-**Fiverr** - 35+ 5 star reviews.
+**Fiverr** - 35+ backend projects shipped. Real experience, real results.
 
 ## 💻 Tech Stack
 
 **Node.js** | **Go**
 
-Fundamentals over frameworks. I master the tools that matter.
+Language agnostic. Fundamentals are the only constant.
 
 **Exploring:** Query engines, storage layers, concurrency control, performance optimization.
-
-**Philosophy:** Build once, scale forever.
