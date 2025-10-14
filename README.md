@@ -4,7 +4,7 @@ Backend engineer. Deep diving into system architecture. Obsessed with understand
 
 ## 🎯 Current Work
 
-**[SquareDonations](https://squaredonations.com/)** - Building scalable backend infrastructure for charitable donations.
+**[SquareDonations](https://squaredonations.com/)** - Building scalable backend system & infrastructure for charitable donations.
 
 **[Fiverr](https://www.fiverr.com/stewdesign)** - 35+ reviews for fixing and building backend stuffs
 
