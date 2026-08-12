@@ -1,7 +1,7 @@
-### Faiyaz Rahman
+# Faiyaz Rahman
 
-Backend engineer, mostly **Go** and **Node.js**. Interested in how systems hold up at scale, not just correctness, but performance, observability, and operability.
+Backend heavy engineer with full-stack capability, mostly working with **Go**, **Node.js**, **Next.js**, and **TypeScript**. Interested in how end-to-end systems hold up at scale—not just backend correctness, but UI responsiveness, performance, observability, and operability.
 
-A bit of everything under the hood: database internals and engine, distributed systems, tracing and observability, infra, and concurrency control.
+A bit of everything across the stack: database internals, distributed systems, tracing, infra, concurrency control, and clean client integration.
 
-Building [SquareDonations](https://squaredonations.com/). Freelance backend work on [Fiverr](https://www.fiverr.com/stewdesign) (35+ reviews).
+Building **SquareDonations**. Freelance full-stack & backend work on **Fiverr** (35+ reviews).
